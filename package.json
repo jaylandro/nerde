@@ -1,8 +1,8 @@
 {
-  "name": "EleventyOne",
-  "version": "3.0.0",
-  "description": "A project bootstrap for Eleventy sites. With pipelines for PostCSS, JavaScript, and serverless functions",
-  "author": "Phil Hawksworth",
+  "name": "nerde",
+  "version": "1.0.0",
+  "description": "Experiemnts in Code & Learning",
+  "author": "Jay Landro",
   "license": "MIT",
   "scripts": {
     "start": "npm run dev",
